@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 创建一个Meal类，带有上面定义的Item对象
  * @author edz
  *
  */

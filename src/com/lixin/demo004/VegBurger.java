@@ -1,7 +1,6 @@
 package com.lixin.demo004;
 
 /**
- * 创建扩展了Burger的实体类
  * @author edz
  *
  */

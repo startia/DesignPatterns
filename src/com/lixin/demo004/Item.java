@@ -1,7 +1,6 @@
 package com.lixin.demo004;
 
 /**
- * 事物条目的接口
  * @author edz
  *
  */

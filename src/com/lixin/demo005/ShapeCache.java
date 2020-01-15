@@ -3,7 +3,6 @@ package com.lixin.demo005;
 import java.util.Hashtable;
 
 /**
- * 创建一个类，从数据库获取实体类，并把他们存储在一个Hashtable中
  * @author edz
  *
  */
